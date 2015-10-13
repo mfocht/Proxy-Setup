@@ -23,4 +23,4 @@ http://goo.gl/tGD6Qx
 
 Credit to phpr0xi for the proxy script
 
-Credit to Micah Focht for the guide
+Credit to Me for the guide
