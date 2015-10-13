@@ -2,20 +2,19 @@
 This guide will let you set up and add things to a proxy on a free web hosting.
 
 
-1) Download this file to your computer. 
-http://goo.gl/tGD6Qx
+1) Download the zip file to your computer.
 
-2) Sign up for a free (or paid) hosting that allows php.  Hostinger.co.uk works well for this
+2) Sign up for a free (or paid) hosting that allows php.  Hostinger.co.uk works well for this.
 
-3) Unzip the files on your computer.
+3) Unzip the files on to your computer.
 
 4) Open the index.inc.php in a text editor.
 
 5) Press control+f (command+f on a mac) and type in title.
 
-6) You should see the words PHProxy after the title.  ONLY MODIFY THIS.
+6) You should see the words Filler after the title.  ONLY MODIFY THIS.
 
-7) Replace PHProxy with whatever you want. 
+7) Replace Filler with whatever you want. 
 
 8) Upload the index.php, index.inc.php, and pjs.js to your hosting.  
 
